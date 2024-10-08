@@ -1,6 +1,6 @@
 {
     "name": "call_of_duty_store_apps",
-    "short_name": "call_of_duty_store_apps",
+    "short_name": "cod_store_apps",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
